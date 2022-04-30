@@ -1,4 +1,4 @@
 # Assessment
-Part 1 -> queries are stored in a file
+Part 1 -> Queries are stored in a SQL file
 
-Part 2 -> python code for second part of Assesment
+Part 2 -> Python code for second part of Assesment
